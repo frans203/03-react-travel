@@ -3,7 +3,7 @@ import classes from "./Logo.module.scss";
 import LeafSVG from "../../assets/LeaftSVG";
 function Logo() {
   return (
-    <a href="/" className={classes.logo}>
+    <a href="/home" className={classes.logo}>
       <LeafSVG fillColor="white" />
       <span>Tropic</span>
     </a>
