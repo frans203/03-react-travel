@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/02-react-admin-dashboard/static/css/main.ba30a88d.css",
-    "main.js": "/02-react-admin-dashboard/static/js/main.e1d7c13d.js",
-    "static/media/cover.mp4": "/02-react-admin-dashboard/static/media/cover.071a299231771427312e.mp4",
-    "static/media/maldives.jpg": "/02-react-admin-dashboard/static/media/maldives.51472d65dba007ad0e88.jpg",
-    "static/media/cabosanlucas.jpg": "/02-react-admin-dashboard/static/media/cabosanlucas.058c7aa6b10026549b39.jpg",
-    "static/media/croatia.jpg": "/02-react-admin-dashboard/static/media/croatia.e4dc0b36fa7d93223345.jpg",
-    "static/media/greece.jpg": "/02-react-admin-dashboard/static/media/greece.59dffe8a94a5cbe49b45.jpg",
-    "static/media/borabora.jpg": "/02-react-admin-dashboard/static/media/borabora.c38e8235632270ccd96a.jpg",
-    "static/media/albania.jpg": "/02-react-admin-dashboard/static/media/albania.05ec88c5bf1a3c3b97db.jpg",
-    "index.html": "/02-react-admin-dashboard/index.html",
-    "main.ba30a88d.css.map": "/02-react-admin-dashboard/static/css/main.ba30a88d.css.map",
-    "main.e1d7c13d.js.map": "/02-react-admin-dashboard/static/js/main.e1d7c13d.js.map"
+    "main.css": "/03-react-travel/static/css/main.ba30a88d.css",
+    "main.js": "/03-react-travel/static/js/main.965c4ce7.js",
+    "static/media/cover.mp4": "/03-react-travel/static/media/cover.071a299231771427312e.mp4",
+    "static/media/maldives.jpg": "/03-react-travel/static/media/maldives.51472d65dba007ad0e88.jpg",
+    "static/media/cabosanlucas.jpg": "/03-react-travel/static/media/cabosanlucas.058c7aa6b10026549b39.jpg",
+    "static/media/croatia.jpg": "/03-react-travel/static/media/croatia.e4dc0b36fa7d93223345.jpg",
+    "static/media/greece.jpg": "/03-react-travel/static/media/greece.59dffe8a94a5cbe49b45.jpg",
+    "static/media/borabora.jpg": "/03-react-travel/static/media/borabora.c38e8235632270ccd96a.jpg",
+    "static/media/albania.jpg": "/03-react-travel/static/media/albania.05ec88c5bf1a3c3b97db.jpg",
+    "index.html": "/03-react-travel/index.html",
+    "main.ba30a88d.css.map": "/03-react-travel/static/css/main.ba30a88d.css.map",
+    "main.965c4ce7.js.map": "/03-react-travel/static/js/main.965c4ce7.js.map"
   },
   "entrypoints": [
     "static/css/main.ba30a88d.css",
-    "static/js/main.e1d7c13d.js"
+    "static/js/main.965c4ce7.js"
   ]
 }
