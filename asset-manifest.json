@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba30a88d.css",
+    "main.js": "/static/js/main.24a06adf.js",
+    "static/media/cover.mp4": "/static/media/cover.071a299231771427312e.mp4",
+    "static/media/maldives.jpg": "/static/media/maldives.51472d65dba007ad0e88.jpg",
+    "static/media/cabosanlucas.jpg": "/static/media/cabosanlucas.058c7aa6b10026549b39.jpg",
+    "static/media/croatia.jpg": "/static/media/croatia.e4dc0b36fa7d93223345.jpg",
+    "static/media/greece.jpg": "/static/media/greece.59dffe8a94a5cbe49b45.jpg",
+    "static/media/borabora.jpg": "/static/media/borabora.c38e8235632270ccd96a.jpg",
+    "static/media/albania.jpg": "/static/media/albania.05ec88c5bf1a3c3b97db.jpg",
+    "index.html": "/index.html",
+    "main.ba30a88d.css.map": "/static/css/main.ba30a88d.css.map",
+    "main.24a06adf.js.map": "/static/js/main.24a06adf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba30a88d.css",
+    "static/js/main.24a06adf.js"
+  ]
+}
